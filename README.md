@@ -1,2 +1,20 @@
-# button-design-project
-A beginner-friendly HTML and CSS project that recreates popular YouTube and Twitter-style buttons. Features responsive button styling, hover animations, active states, smooth transitions, and box-shadow effects to enhance user interaction.
+# Button Design Project
+
+A beginner HTML and CSS project featuring:
+
+- YouTube Subscribe Button
+- Join Button
+- Tweet Button
+- Hover Effects
+- Active Effects
+- CSS Transitions
+- Box Shadow Animation
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Author
+
+Jayasurya D R
